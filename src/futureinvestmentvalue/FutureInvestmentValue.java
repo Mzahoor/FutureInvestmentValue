@@ -13,7 +13,7 @@ public class FutureInvestmentValue {
      */
     public static void main(String[] args) {
     Scanner input = new Scanner(System.in); // Create a Scanner
-		final int NUMBER_OF_YEARS = 30; // Number of years to display
+		final int NUMBER_OF_YEARS = 25; // Number of years to display
 
 		// Enter the investment amount and interest rate in the following tag
 		System.out.print("\nThe amount invested: ");
